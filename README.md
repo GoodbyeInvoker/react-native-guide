@@ -7,7 +7,8 @@ https://github.com/jondot/awesome-react-native
 
 ## 教程
 
-### React Native
+### Node.js入门指南
+http://www.jdon.com/idea/nodejs/nodeJs-learning5.html
 
 * **React-Native入门指南**
 https://github.com/vczero/react-native-lession
